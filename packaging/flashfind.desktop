@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=FlashFind
+GenericName=Desktop Search
+GenericName[zh_CN]=桌面搜索
+Comment=Quickly search applications, filenames and document text
+Comment[zh_CN]=快速搜索应用、文件名和文档内容
+Exec=flashfind
+Icon=flashfind
+Terminal=false
+Categories=Utility;FileTools;
+Keywords=search;launcher;files;documents;
