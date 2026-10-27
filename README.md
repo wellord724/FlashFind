@@ -33,6 +33,18 @@ FlashFind brings applications, filenames and document text into one compact sear
 - **Transparent background:** adjust the background opacity while keeping labels and icons readable.
 - **Small application package:** uses Python, GTK 3 and SQLite supplied by your system; no Electron or large model runtime.
 
+## Demos
+
+**Search applications and files:** type a keyword to see applications and files together, then select a result with the arrow keys.
+
+![Searching applications and files](assets/search-demo.gif)
+
+**Search document contents:** find a document by text inside it, even when the keyword is absent from the filename. The result includes a matching excerpt.
+
+![Searching document contents](assets/content-demo.gif)
+
+The demos use sample applications and documents in an isolated environment.
+
 ## Getting started
 
 ### Ubuntu / Debian package
